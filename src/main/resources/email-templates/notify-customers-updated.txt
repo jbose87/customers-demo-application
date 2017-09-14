@@ -1,0 +1,5 @@
+Hi {{user}},
+
+As per last 24 hours statistics the numbers of customers registered or updated themselves is {{count}}
+
+{{user}}, we request you not to reply to this mail.
